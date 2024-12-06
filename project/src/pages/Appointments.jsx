@@ -8,12 +8,12 @@ const doctors = [
     specialty: 'Cardiologist',
     experience: '15 years',
     rating: 4.8,
-    location: 'Medical Center, New York',
+    location: 'New Delhi'
     availability: ['Monday', 'Wednesday', 'Friday'],
     image: "https://t4.ftcdn.net/jpg/06/47/16/29/360_F_647162966_SFu8GP6awkeW0OnFnAxPjiGXSoeme4ht.jpg",
-    price: '$200',
-    languages: ['English', 'Spanish'],
-    education: 'Harvard Medical School',
+    price: 'Rs 700',
+    languages: ['English', 'Hindi'],
+    education: 'AIIMS Delhi',
     nextAvailable: '2024-02-28'
   },
   {
@@ -22,12 +22,12 @@ const doctors = [
     specialty: 'Neurologist',
     experience: '12 years',
     rating: 4.9,
-    location: 'Health Complex, Boston',
+    location: 'Mumbai'
     availability: ['Tuesday', 'Thursday', 'Saturday'],
     image: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=200&h=200',
-    price: '$180',
-    languages: ['English', 'Mandarin'],
-    education: 'Stanford Medical School',
+    price: 'rs 900',
+    languages: ['English', 'Hindi'],
+    education: 'Maulana Azad Medical College',
     nextAvailable: '2024-02-27'
   },
   {
@@ -36,12 +36,12 @@ const doctors = [
     specialty: 'Pediatrician',
     experience: '10 years',
     rating: 4.7,
-    location: 'Children\'s Hospital, Chicago',
+    location: 'Children\'s Hospital, UP',
     availability: ['Monday', 'Tuesday', 'Thursday'],
     image: "https://media.istockphoto.com/id/1293373291/photo/portrait-of-confident-ethnic-female-doctor.jpg?s=612x612&w=0&k=20&c=CJsw6IgTecJZoBeVXqZdvh2BI-NyVa-8VcQM3fPhbYc=",
-    price: '$150',
-    languages: ['English', 'French'],
-    education: 'Johns Hopkins University',
+    price: 'Rs 800',
+    languages: ['English', 'Hindi'],
+    education: 'Bangalore Medical College',
     nextAvailable: '2024-02-26'
   }
 ];
